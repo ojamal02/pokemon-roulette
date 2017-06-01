@@ -1,0 +1,31 @@
+
+body {
+  background-color: lightgrey
+}
+
+h1 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+  font-style: italic; 
+  color: Purple; 
+}
+
+button {
+  background-image: url("http://moddingofisaac.com/modfiles/0a4a0a1ead79/icon.png?v=e0759c");
+ border: 0;  
+ height: 128px;
+  width: 128px;
+  text-align: center;
+  background-color: palegreen;
+}
+
+.pokebox { 
+text-align: center;
+ border: solid 10px;
+  border-color: slategrey;
+ background-color: palegreen;
+  margin-left: 100px;
+  margin-right: 100px; 
+  border-radius: 5px;
+  font-family: andale mono; 
+}
